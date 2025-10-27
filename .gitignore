@@ -1,0 +1,24 @@
+# Virtual Environment
+.uv/
+venv/
+env/
+
+# Secrets & Credentials
+.env
+Private/
+*.json
+*token*
+*credentials*
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
