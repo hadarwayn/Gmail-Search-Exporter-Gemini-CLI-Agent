@@ -1,6 +1,6 @@
 # Gmail Search Exporter - Gemini CLI Agent
 
-### **Author:** [Your Name Here]
+### **Author:** Hadar Wayn
 ### **License:** Feel free to use this code for your projects
 
 ---
@@ -276,4 +276,5 @@ git remote add origin [PASTE_YOUR_GITHUB_REPO_URL_HERE]
 
 # 5. Push your code to GitHub
 git push -u origin main
+
 ```
